@@ -1,0 +1,79 @@
+*{
+	margin: 0px;
+}
+.backg{
+	background-image: url(image/man.jpg);
+	height: 98vh;
+}
+.krug{
+	border-radius: 50%;
+	background-color: rgb(238 76 46);
+	margin-right: 200px;
+	margin-top: 55px;
+	float: right;
+	height: 140px;
+	width: 140px;
+}
+.text{
+	margin-top: 50px;
+	height: 40px;
+	width: 110px;
+	margin-left: 25px;
+}
+.l1123g{
+	color: white;
+	font-size: 35px;
+}
+.bigtext{
+	height: 165px;
+	width: 475px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 890px;
+}
+.textx2{
+	height: 165px;
+	width: 475px;
+}
+.rfg123{
+	font-size: 155px;
+	color: white;
+}
+.rfg1245{
+	color: #211f20;
+	float: right;
+	font-size: 52px;
+	margin-right: 8px;
+}
+.menu{
+	width: 1200px;
+	height: 100px;
+	float: left;
+	margin-top: 15vh;
+	margin-left: 160px;
+}
+.h123{
+	width: 199px;
+	height: 60px;
+	background-color: #1c1817;
+	float: left;
+	margin-left: 1px;
+	padding-top: 40px;
+	transition: border-top 0.3s ease,
+				height 0.3s ease;
+	color: #4d4644;
+	font-size: 25px;
+
+}
+.psaf{
+	clear: both;
+	float: left;
+	background-color: #2a2a2a;
+	height: 2vh;
+	width: 202.5vh;
+}
+.h123:hover{
+	height: 56px;
+	border-top: 4px solid #e5502f;
+	color: white;
+}
